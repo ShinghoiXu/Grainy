@@ -1,4 +1,4 @@
-package template.library;
+package grainy.graphics;
 
 
 import processing.core.*;
